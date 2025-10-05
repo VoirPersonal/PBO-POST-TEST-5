@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/F:/Code/Java/BankSampah/src/main/main.java</file>
+            <file>file:/F:/Code/Java/BankSampah/src/model/Anorganik.java</file>
+            <file>file:/F:/Code/Java/BankSampah/src/model/Organik.java</file>
+            <file>file:/F:/Code/Java/BankSampah/src/model/Sampah.java</file>
+            <file>file:/F:/Code/Java/BankSampah/src/model/Database.java</file>
+            <file>file:/F:/Code/Java/BankSampah/src/service/SampahService.java</file>
+            <file>file:/F:/Code/Java/BankSampah/src/service/HargaSampah.java</file>
+            <file>file:/F:/Code/Java/BankSampah/src/service/TampilDataJDBC.java</file>
+            <file>file:/F:/Code/Java/BankSampah/src/service/CRUD_ORM.java</file>
+        </group>
+    </open-files>
+</project-private>
